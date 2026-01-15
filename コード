@@ -8,4 +8,13 @@ press to tp
 ゲットコマンド
 press to get
 1 Apple
-
+買い取りコマンド
+press to buy
+1 Apple
+costs
+1 Gold Coin
+売却コマンド
+press to sell
+1 Gold Coin
+for
+1 Apple
